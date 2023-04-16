@@ -9,3 +9,5 @@ The datatset used is open-souce. Link - https://www.kaggle.com/competitions/hist
 1. The `main.py` file contains the primary code for baseline model training, patch training, and experiments with image morphing. 
 2. `mask.jpg` is the mask used for patch training. 
 3. `weights.pt` is the saved weights for the baseline CNN model. 
+
+Notes : `mask.jpg` and `weights.pt` are available in the master branch 
