@@ -10,4 +10,4 @@ The datatset used is open-souce. Link - https://www.kaggle.com/competitions/hist
 2. `mask.jpg` is the mask used for patch training. 
 3. `weights.pt` is the saved weights for the baseline CNN model. 
 
-Notes : `mask.jpg` and `weights.pt` are available in the master branch 
+Note : `mask.jpg` and `weights.pt` are available in the master branch 
